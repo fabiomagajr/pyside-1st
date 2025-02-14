@@ -13,7 +13,7 @@ layout=QGridLayout()
 central_widget.setLayout(layout)
 layout.addWidget(botao2,1,1)
 layout.addWidget(botao,1,2)
-layout.addWidget(botao3,3,1,1,2)
+layout.addWidget(botao3,3,1,1,2) # linha, coluna, rowspan, colspan
 central_widget.show()
 app.exec()
 

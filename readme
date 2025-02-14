@@ -1,0 +1,2 @@
+on ubuntu based systems:
+    sudo apt-get install libxcb-cursor0
